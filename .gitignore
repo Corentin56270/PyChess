@@ -1,0 +1,18 @@
+install.go
+
+stockfish-windows-x86-64-avx2/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+
+# Archives intermédiaires
+*.zip
+!stockfish-windows-x86-64-avx2.zip
